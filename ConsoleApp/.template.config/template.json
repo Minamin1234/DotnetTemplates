@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Minamin",
+    "classifications": [ "Common", "Console" ],
+    "identity": "Minamin.ConsoleApp",
+    "name": "ConsoleApp",
+    "shortName": "consoleapp",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}

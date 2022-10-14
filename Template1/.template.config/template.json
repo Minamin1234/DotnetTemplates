@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Minamin",
+    "classifications": [ "Common", "Console" ],
+    "identity": "Minamin.Template1",
+    "name": "Template1",
+    "shortName": "template1"
+}
